@@ -2613,7 +2613,7 @@ ul.breadcrumb li + li:last-child {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #6747d9;
+  background: #ff2514;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
